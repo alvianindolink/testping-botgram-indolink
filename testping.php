@@ -1,6 +1,6 @@
 <?php
 header('Content-Type: application/json');
-$telegrambot='12312312321:sdsdsdssdsdsdsd'; #masukkan token api bot telegramnya
+$telegrambot='12312312321:sdsdsdssdsdsdsd'; #masukkan token api bot telegram
 $telegramchatid='1231231231232'; #masukkan chat id bot telegramnya
 
 #change the host
